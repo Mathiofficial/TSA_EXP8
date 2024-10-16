@@ -1,6 +1,6 @@
-### Developed By: Mathiyazhagan A
-### Reg No: 212222240075
-### Date: 
+## Developed By: Mathiyazhagan A
+## Reg No: 212222240063
+## Date: 
 
 # Ex.No: 08     MOVING AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 
@@ -104,14 +104,12 @@ plt.show()
 
 ### Moving Average :
 
-![Uploading MV.png…]()
+![{0D982DC4-3331-405E-AAE8-50686B923134}](https://github.com/user-attachments/assets/d8e1a65e-4357-4502-a1eb-5d2a6e908173)
 
 
 ### Exponential Smoothing :
 
-![Uploading ES.png…]()
-
-
+![{11A447A6-8109-4A6A-8BC5-2AC0245C9575}](https://github.com/user-attachments/assets/bfac51bc-17b3-4ec0-8961-863891175e2d)
 
 
 
